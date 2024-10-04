@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="left">creating responsive visuals and interactive user experiences is my motto. I am a frontend developer based in Bekasi, Indonesia. Let's make your project a reality.</h2>
+<h2 align="left">Crafting sleek and responsive front-end experiences, one line of code at a time. Let's collaborate to bring your project to life!</h2>
 
 ###
 
